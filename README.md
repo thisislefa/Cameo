@@ -331,7 +331,7 @@ document.querySelectorAll('.project-card').forEach(card => {
 
 1. **Clone or Download:**
 ```bash
-git clone https://github.com/thisislefa/cameo-component.git
+git clone https://github.com/thisislefa/Cameo.git
 cd cameo-component
 ```
 
@@ -418,4 +418,5 @@ For issues, questions, or suggestions:
 ---
 
 *Cameo represents a production-ready web component following modern development practices. Its modular design and clean separation of concerns make it suitable for integration into any web project, from simple static sites to complex web applications.*
+
 
